@@ -1,0 +1,34 @@
+h1 {
+	color: blue;
+}
+
+.main {
+	background-color: #F1F1F1;
+}
+
+.post_content {
+	background-color: #FFF;
+}
+
+.post_head-img {
+	background-image: url(http://i.imgur.com/AP6er4k.jpg?1);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0% 60%;
+	height: 400px;
+}
+
+.post_footer {
+	background-color: #F7F7F7;
+	padding: 20px 0;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 1%;
+}
